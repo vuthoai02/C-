@@ -1,0 +1,3 @@
+Id cua node co khoang cach gan node can tim nhat = 751Diem co trong so tu nodei lon hon trong so da truyen la: 
+110 0.56
+19 0.44
